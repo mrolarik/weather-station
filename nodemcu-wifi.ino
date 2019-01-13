@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h> //เป็นการเรียกใช้ Library โมดูล ESP8266
 
-const char* ssid = "olarik"; //สร้างตัวแปรไว้เก็บชื่อ ssid ของ AP ของเรา
-const char* pass = "abcd1234"; //สร้างตัวแปรไว้เก็บชื่อ password ของ AP ของเรา
+const char* ssid = "xxxx"; //สร้างตัวแปรไว้เก็บชื่อ ssid ของ AP ของเรา
+const char* pass = "xxxx"; //สร้างตัวแปรไว้เก็บชื่อ password ของ AP ของเรา
 
 void setup () {
   Serial.begin(115200); //ตั้งค่าใช้งาน serial ที่ baudrate 115200
