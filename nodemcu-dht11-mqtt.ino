@@ -7,9 +7,9 @@
 DHT dht(dht_dpin, DHTTYPE);
 
 // Update these with values suitable for your network.
-const char* ssid = "Mrolarik";
-const char* password = "olarik_home";
-const char* mqtt_server = "203.158.199.14"; //IP Address or Domain ของ MQTT Server
+const char* ssid = "xxx";
+const char* password = "xxx";
+const char* mqtt_server = "111.111.111.111"; //IP Address or Domain ของ MQTT Server
 const char mqtt_username[50] = "admin"; //Username ของ MQTT Server
 const char mqtt_password[50] = "1234"; //Password ของ MQTT Server
 const int mqtt_port = 11883;
