@@ -20,8 +20,8 @@ float t, h;
 int led1_s, led2_s, led3_s;
 
 char auth[] = "57924b8d171c44ef95ae65e7ebff0894";   //Key From Blynk
-char ssid[] = "Samart_Project2.4G";                          //Wifi Name
-char pass[] = "19216801s";                           //Wifi Password
+char ssid[] = "xxxx";                          //Wifi Name
+char pass[] = "xxxx";                           //Wifi Password
 
 void measure_dht(){
   h = dht.readHumidity();
