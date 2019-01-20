@@ -1,8 +1,8 @@
 # weather-station
 weather-station-nodemcu-mqtt-node-red
 
-# weather Box
+# Weather Box
 ![station](https://github.com/mrolarik/weather-station/blob/master/weather-station/ws_01.jpg)
 
-# weather App
+# Weather App
 ![Blynk app](https://github.com/mrolarik/weather-station/blob/master/weather-station/ws_05.jpg)
